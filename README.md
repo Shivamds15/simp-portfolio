@@ -1,6 +1,3 @@
-Certainly! Here is the complete markdown content for your `.md` file, which includes the additional sections you requested:
-
-```markdown
 # Portfolio Website
 
 This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my projects, skills, and contact information.
