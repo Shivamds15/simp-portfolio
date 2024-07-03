@@ -1,7 +1,7 @@
 # Portfolio Website
 
-This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my projects, skills, and contact information.
-
+This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my projects, skills, and contact information. Visit -
+[My PortFolio]([/images/home.png](https://shivamds15.github.io/simp-portfolio/))
 ## Features
 
 - **Home:** Introduction and social links.
@@ -23,7 +23,8 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 
 ## Screenshots
 
-- ![PortFolio](./images/home.png)
+![PortFolio](/images/home.png)
+
 
 ## Setup
 
