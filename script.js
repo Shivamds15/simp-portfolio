@@ -9,9 +9,9 @@ $(document).ready(function(){
 
 document.getElementById('year').textContent = new Date().getFullYear();const form = document.getElementById('contact-form');
 
-const form = document.getElementById('contact-form');
+const cform = document.getElementById('contact-form');
 
-form.addEventListener('submit', (e) => {
+cform.addEventListener('submit', (e) => {
   e.preventDefault();
   const firstName = document.querySelector('input[placeholder="Shivam"]').value;
   const lastName = document.querySelector('input[placeholder="Singh"]').value;
