@@ -13,11 +13,13 @@ const form = document.getElementById('contact-form');
 
 form.addEventListener('submit', (e) => {
   e.preventDefault();
-  const name = document.querySelector('input[name="name"]').value;
-  const email = document.querySelector('input[name="email"]').value;
-  const message = document.querySelector('textarea[name="message"]').value;
+  const firstName = document.querySelector('input[placeholder="Shivam"]').value;
+  const lastName = document.querySelector('input[placeholder="Singh"]').value;
+  const email = document.querySelector('input[placeholder="shivamsingh910672@gmail.com"]').value;
+  const mobile = document.querySelector('input[placeholder="XXXXXXXXX"]').value;
+  const message = document.querySelector('textarea').value;
   const subject = 'New message from your portfolio website';
-  const body = `Name: ${name}\nEmail: ${email}\nMessage: ${message}`;
+  const body = `First Name: ${firstName}\nLast Name: ${lastName}\nEmail: ${email}\nMobile: ${mobile}\nMessage: ${message}`;
   const mailtoLink = `mailto:shivamsingh910672@gmail.com?subject=${subject}&body=${body}`;
   window.location.href = mailtoLink;
 });
