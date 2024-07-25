@@ -400,7 +400,24 @@ transition: ease-in-out 500ms;
  margin-top: 0px;
  padding-bottom: 20px;
  font-size:40px;
- 
+ display: flex;
+ flex-direction: column;
+}
+
+.services-text a{
+  text-decoration: none;
+  background: crimson;
+  color: #fff;
+  font-weight: 500;
+  padding: 5px 20px;
+  margin-top: 5px;
+  border-radius: 6px;
+  border: 2px solid crimson;
+  transition: all 0.3s ease;
+}
+
+.services-text a:hover{
+      border: 1px solid white;
 }
 .services-text p:nth-child(2){
  font-family:calibri;
