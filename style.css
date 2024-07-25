@@ -400,8 +400,6 @@ transition: ease-in-out 500ms;
  margin-top: 0px;
  padding-bottom: 20px;
  font-size:40px;
- display: flex;
- flex-direction: column;
 }
 
 .services-text a{
@@ -426,6 +424,8 @@ transition: ease-in-out 500ms;
  margin-top:4%;
  font-size: 15px;
  text-align: center;
+ display: flex;
+ flex-direction: column;
 }
 .services-text{
     width: 100%;
