@@ -24,7 +24,7 @@ html{
   .left {
   height:100vh;
   width:25%;
-  background-color:rgb(50,50,100);
+  background:linear-gradient(-33deg, rgba(220, 21, 60, 1) 40%, rgba(2, 255, 257, 1) 150%);
   float:left;
   padding:20px;
   color:white;
@@ -69,7 +69,7 @@ html{
  display: flex;
  justify-content: center;
  align-items: center;
- background-color:#37376a;
+ background-color:#18181a;
  margin:0px 5px;
  border-radius:50%;
 }
@@ -438,13 +438,13 @@ transition: ease-in-out 500ms;
 }
  
 .box-1{
- background-image:url("https://th.bing.com/th/id/OIP.pXAV6oc3eL9jB8yS48cZ1QHaHV?w=182&h=180&c=7&r=0&o=5&pid=1.7");
+ background-image:url("https://github.com/Shivamds15/Learning-Hub-Web/raw/main/images/dashboard.jpg");
 }
 .box-2{
- background-image:url("https://th.bing.com/th/id/OIP.7F9nQzWnLOUm_R5SI9FqswHaFP?w=237&h=180&c=7&r=0&o=5&pid=1.7");
+ background-image:url("https://github.com/Shivamds15/ApnaNivas/raw/master/home.jpg");
 }
 .box-3{
- background-image: url("https://th.bing.com/th/id/OIP.F5Zxy_mJgxujyuai2R6DrwHaEI?w=332&h=185&c=7&r=0&o=5&pid=1.7");
+ background-image: url("https://github.com/Shivamds15/PersonalNotes/raw/main/images/1.jpg");
 }
 .box-1 span,
 .box-2 span,
