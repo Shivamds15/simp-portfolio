@@ -63,9 +63,9 @@ html{
   transition:ease 400ms;
   }*/
   .social-icons a{
- width:30px;
+ width:40px;
  color:white;
- height:30px;
+ height:40px;
  display: flex;
  justify-content: center;
  align-items: center;
