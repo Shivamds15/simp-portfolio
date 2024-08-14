@@ -80,7 +80,8 @@ html{
 .social-icons a:hover{
  background-color:white;
  box-shadow:2px 2px 12px rgba(0,0,0,0.2);
- transition:all ease 0.5s;
+ transition:all 0.5s ease;
+ scale: 1.08;
  color:crimson;
 }
   
